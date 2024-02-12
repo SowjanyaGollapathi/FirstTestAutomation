@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Page_SwagHome",
+  "Type": "Screen",
+  "Id": "LxjpGLUWuEun9KgQU9_vZA",
+  "Reference": "ERdm8Z1LM0yU_PX8Fc5yYQ/LxjpGLUWuEun9KgQU9_vZA",
+  "ParentRef": "ERdm8Z1LM0yU_PX8Fc5yYQ/8MKFFVOZbE-gDgvIUNicRw",
+  "Created": "2024-02-05T09:00:19.0963758Z",
+  "Updated": "2024-02-05T09:02:28.8253532Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
